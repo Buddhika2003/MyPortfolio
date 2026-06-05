@@ -201,7 +201,7 @@ function App() {
           <div className="orbit-card">
             <div className="orbit-wrapper">
               <div className="profile-image">
-                <img src="/profile.jpg" alt="Buddhika" />
+                <img src="./profile.jpg" alt="Buddhika" />
               </div>
 
               <div className="orbit">
